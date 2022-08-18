@@ -8,3 +8,14 @@
 	text-align: justify;
 	text-indent: 0;
 }
+
+table{
+	border-spacing: 1em;
+	margin: 1em auto;
+}
+
+table th{
+	border-right: 1px solid;
+	padding-right: 1em;
+	vertical-align: middle;
+}
