@@ -53,7 +53,7 @@
 		<dc:source>https://www.google.com/books/edition/The_Crowd/YNwxAQAAMAAJ</dc:source>
 		<meta property="se:word-count">51168</meta>
 		<meta property="se:reading-ease.flesch">44.68</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Crowd</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Crowd:_A_Study_of_the_Popular_Mind</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/gustave-le-bon_the-crowd_t-fisher-unwin-ltd</meta>
 		<dc:creator id="author">Gustave Le Bon</dc:creator>
 		<meta property="file-as" refines="#author">Le Bon, Gustave</meta>
