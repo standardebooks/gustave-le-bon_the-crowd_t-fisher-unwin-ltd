@@ -41,7 +41,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85034333</meta>
 		<meta property="schema:genre">Philosophy</meta>
-		<dc:abstract>Le Bon explores the psychology, motivations, and dangers of crowds of people.</dc:abstract>
+		<meta property="schema:abstract">Le Bon explores the psychology, motivations, and dangers of crowds of people.</meta>
 		<dc:description>
 			&lt;p&gt;The world of the 18th and 19th centuries had been wracked by change and revolution. &lt;a href="https://standardebooks.org/ebooks/gustave-le-bon"&gt;Gustave Le Bon&lt;/a&gt;, a doctor by trade but wandering philosopher by avocation, was a first-hand witness to one such revolution: the establishment of the Paris Commune in 1871, in which a crowd of mutinous National Guardsmen seized the city and established a socialist government for two brief months in what &lt;a href="https://standardebooks.org/ebooks/karl-marx_friedrich-engels"&gt;Engels&lt;/a&gt; called one of the first examples of a “dictatorship of the proletariat.”&lt;/p&gt;
 			&lt;p&gt;After that revolution, Le Bon left to travel the world, developing his theories on the psychology of crowds. &lt;i&gt;The Crowd&lt;/i&gt; is his distillation of that philosophy, and one of the earliest treatises exploring the behavior and motivations of crowds of people.&lt;/p&gt;
